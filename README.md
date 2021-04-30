@@ -30,3 +30,6 @@ sum(x[m] x h[-m]= = 2 + 2 + 3 = 7 </br>
 It continues untill the multiplication is zero. At the we get y[n] = [ <ins>1</ins> 3 7 11 15 13 10 ]
 
 [GUI](https://prnt.sc/12bngjh)
+
+
+Mehmet Ahad YURTOGLU
